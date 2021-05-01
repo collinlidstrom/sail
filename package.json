@@ -1,0 +1,62 @@
+{
+     "name": "directory_react_theme",
+     "title": "Directory – Directory & Listing React Theme",
+     "version": "1.1.0",
+     "description": "",
+     "homepage": "https://themes.getbootstrap.com/product/directory-directory-listing-react-theme/",
+     "author": "Bootstrapious - https://bootstrapious.com",
+     "contact": "hello@bootstrapious.com",
+     "bugs": "",
+     "scripts": {
+          "dev": "next dev",
+          "build": "next build",
+          "start": "next start",
+          "export": "next build && next export"
+     },
+     "dependencies": {
+          "@fortawesome/fontawesome-free": "^5.15.1",
+          "@fortawesome/fontawesome-svg-core": "^1.2.32",
+          "@fortawesome/free-solid-svg-icons": "^5.15.1",
+          "@fortawesome/react-fontawesome": "^0.1.12",
+          "leaflet": "^1.7.1",
+          "next": "^10.0.3",
+          "next-compose-plugins": "^2.2.1",
+          "next-google-fonts": "^1.2.1",
+          "next-react-svg": "^1.1.2",
+          "nouislider-react": "^3.3.8",
+          "nprogress": "^0.2.0",
+          "object-fit-images": "^3.2.4",
+          "react": "^16.14.0",
+          "react-dates": "^21.8.0",
+          "react-dom": "^16.14.0",
+          "react-dropzone": "^11.2.4",
+          "react-id-swiper": "^3.0.0",
+          "react-image-lightbox": "^5.1.1",
+          "react-leaflet": "^2.8.0",
+          "react-scroll": "^1.8.1",
+          "react-select": "^3.1.1",
+          "react-syntax-highlighter": "^12.2.1",
+          "reactstrap": "^8.7.0",
+          "sass": "^1.28.0",
+          "swiper": "^5.4.5"
+     },
+     "browserslist": [
+          ">= 1%",
+          "last 1 major version",
+          "not dead",
+          "Chrome >= 45",
+          "Firefox >= 38",
+          "Edge >= 12",
+          "Explorer >= 10",
+          "iOS >= 9",
+          "Safari >= 9",
+          "Android >= 4.4",
+          "Opera >= 30"
+     ],
+     "prettier": {
+          "trailingComma": "es5",
+          "tabWidth": 2,
+          "printWidth": 80,
+          "semi": false
+     }
+}
