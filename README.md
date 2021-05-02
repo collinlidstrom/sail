@@ -1,6 +1,30 @@
-This theme is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app). 
+This theme is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 Next.js is a framework based on React, Webpack and Babel. It allows you to make blazing fast web applications with possibility of server side rendering.
+
+---
+
+Nick - How to push code updates to GitHub
+
+###  GIT CHEAT SHEETSTAGE & SNAPSHOT
+Working with snapshots and the Git staging area
+
+```xml
+<!--Check coding changes on local machine-->
+git status
+```
+
+```xml
+<!--Add a coding change to push-->
+git commit -m “[descriptive message]”
+<!--Push your new coding changes to remote repository-->
+git push
+
+<!--Pull changes from remote repository-->
+git pull
+```
+
+---
 
 ## Getting Started
 
