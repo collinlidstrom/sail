@@ -11,7 +11,7 @@ Working with snapshots and the Git staging area
 
 ```xml
 <!--Check coding changes on local machine-->
-git status 
+git status
 ```
 
 ```xml
