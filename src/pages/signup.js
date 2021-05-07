@@ -33,16 +33,14 @@ const Signup = () => {
           <div className="w-100 py-5 px-md-5 px-xl-6 position-relative">
             <div className="mb-4">
               <img
-                src="/content/svg/logo-square.svg"
+                src="/content/svg/SAIL.PNG"
                 alt="..."
                 style={{ maxWidth: "4rem" }}
                 className="img-fluid mb-3"
               />
               <h2>Sign up</h2>
               <p className="text-muted">
-                His room, a proper human room although a little too small, lay
-                peacefully between its four familiar walls. A collection of
-                textile samples lay spread out on the table.
+                Welcome to Sail! We are excited to offer you the fastest and most convenient platform to use when applying to open job listings. Our platform is engineered to allow you to apply in one simple process. To begin your career search please fill in the following information to create an account.
               </p>
             </div>
             <Form className="form-validate">
@@ -115,7 +113,7 @@ const Signup = () => {
         <Col md="4" lg="6" xl="7" className="d-none d-md-block">
           <div className="bg-cover h-100 mr-n3">
             <Image
-              src={`/content/img/photo/photo-1497436072909-60f360e1d4b1.jpg`}
+              src={`/content/img/photo/sailboat.png`}
               alt=""
               className="bg-image"
               loading="eager"

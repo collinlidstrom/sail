@@ -1,28 +1,28 @@
 {
-    "title": "How can we help you today?",
+    "title": "Looking To Get In Contact With Us?",
     "subtitle": "Contact",
-    "img": "photo-1522143049013-2519756a52d4.jpg",
+    "img": "sailboat.png",
     "address": {
         "title": "Address",
-        "row1": "13/25 New Avenue",
-        "row2": "New Heaven, 45Y 73J",
-        "row3": "England, <strong>Great Britain</strong>"
+        "row1": "2515 SE 282nd",
+        "row2": "Troutdale, Oregon",
+        "row3": "United States <strong></strong>"
     },
     "callcenter": {
-        "title": "Call center",
-        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "phone": "+33 555 444 333"
+        "title": "Email Us",
+        "content": "Send us an email and let us know how we can help.",
+        "phone": "info@sailapplication.com"
     },
     "electronicsupport": {
-        "title": "Electronic support",
-        "content": "Please feel free to write an email to us or to use our electronic ticketing system.",
-        "phone": "+33 555 444 333",
+        "title": "Having Trouble?",
+        "content": "We are here to help solve your problems and guide you along the way.",
+        "phone": "info@sailapplication.com",
         "emails": [
             "info@sell.com",
             "support@sell.com"
         ]
     },
-    "content": "<p class='text-muted'>Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed. </p><p class='text-muted'>Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh. </p>",
+    "content": "<p class='text-muted'>We're here to help! Whether you are having trouble or just have questions regarding our platform please reach out and contact our team. </p><p class='text-muted'>Please let us know why you are reaching out and a member from our team will contact you as soon as possible to get your questions answered. </p>",
     "social": [
         {
             "icon": "twitter",

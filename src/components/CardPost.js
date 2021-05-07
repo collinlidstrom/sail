@@ -13,12 +13,12 @@ const CardPost = (props) => {
           <Image
             src={`/content/${post.img}`}
             alt="..."
-            width={1080}
-            height={720}
+            width={700}
+            height={500}
             layout="intrinsic"
             className="img-fluid card-img-top"
             loading={props.eager ? "eager" : "lazy"}
-            sizes="(max-width:576px) 100vw, 350px"
+            sizes="(max-width: 860px) 100vw, 550px"
           />
         </a>
       </Link>

@@ -34,7 +34,7 @@ const Login = () => {
           <div className="w-100 py-5 px-md-5 px-xl-6 position-relative">
             <div className="mb-5">
               <img
-                src="/content/svg/logo-square.svg"
+                src="/content/svg/SAIL.PNG"
                 alt="..."
                 style={{
                   maxWidth: "4rem",
@@ -116,7 +116,7 @@ const Login = () => {
               </small>
             </p>
 
-            <Link href="/">
+            <Link href="user-account">
               <a className="close-absolute mr-md-5 mr-xl-6 pt-5">
                 <Icon icon="close-1" className="w-3rem h-3rem" />
               </a>
@@ -126,7 +126,7 @@ const Login = () => {
         <Col md="4" lg="6" xl="7" className="d-none d-md-block">
           <div className="bg-cover h-100 mr-n3">
             <Image
-              src={`/content/img/photo/photo-1497436072909-60f360e1d4b1.jpg`}
+              src={`/content/img/photo/sailboatlogin.jpg`}
               alt=""
               className="bg-image"
               loading="eager"

@@ -35,7 +35,7 @@ const UserAdd2 = () => {
           </h1>
           <ListingForm
             data={data[2]}
-            prevStep="/user-add-1"
+            prevStep="/"
             nextStep="/user-add-3"
           />
         </Container>

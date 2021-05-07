@@ -1,9 +1,9 @@
 {
     "hero": {
-        "title": "Stay like a local",
-        "subTitle": "The best holiday experience"
+        "title": "Set Sail to New Beginnings ",
+        "subTitle": "The One-Step Application Platform "
     },
-    "swiperPoster": "photo-1501621965065-c6e1cf6b53e2-lowres.jpg",
+    "swiperPoster": "sailing-boat-569336_1920.jpg",
     "swiperImages": [
         "photo-1501621965065-c6e1cf6b53e2.jpg",
         "photo-1519974719765-e6559eac2575.jpg",
@@ -13,88 +13,144 @@
     "searchOptions": [
         {
             "value": "small",
-            "label": "Restaurants"
+            "label": "Finance"
         },
         {
             "value": "medium",
-            "label": "Hotels"
+            "label": "Healthcare"
         },
         {
             "value": "large",
-            "label": "Cafes"
+            "label": "Software Engineering"
         },
         {
             "value": "x-large",
-            "label": "Garages"
+            "label": "Construction"
+        },
+        {
+            "value": "large",
+            "label": "Government"
+        },
+        {
+            "value": "large",
+            "label": "Retail"
+        },
+        {
+            "value": "large",
+            "label": "Engineering"
+        },
+        {
+            "value": "large",
+            "label": "Agriculture"
+        },
+        {
+            "value": "large",
+            "label": "Digital Media"
+        },
+        {
+            "value": "large",
+            "label": "Information Technology"
+        },
+        {
+            "value": "large",
+            "label": "Hospitality"
+        },
+        {
+            "value": "large",
+            "label": "Law, Public Safety, Corrections"
+        },
+        {
+            "value": "large",
+            "label": "Transportation and Logistics"
+        },
+        {
+            "value": "large",
+            "label": "Marketing and Sales"
+        },
+        {
+            "value": "large",
+            "label": "Dental"
+        },
+        {
+            "value": "large",
+            "label": "Arts"
+        },
+        {
+            "value": "large",
+            "label": "Oil and Gas"
+        },
+        {
+            "value": "large",
+            "label": "Consumer Goods"
         }
     ],
     "topBlocks": {
-        "title": "Booking with us is easy",
-        "subTitle": "One-of-a-kind vacation rentals",
+        "title": "Applying With Us is Easy",
+        "subTitle": "One-of-a-kind Career Application Platform",
         "blocks": [
             {
-                "title": "Find the perfect rental",
-                "content": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed in",
+                "title": "Find Your Dream Job",
+                "content": "Sail is engineered with machine learning technology that tailors your job searching experience. With millions of job listings daily, we continue to provide users new opportunities in search of their dream job.",
                 "icon": "destination-map-1"
             },
             {
-                "title": "Book with confidence",
-                "content": "The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pit",
+                "title": "Apply With One Swipe",
+                "content": "Our platform provides users a fast and efficient method to apply for jobs. Applying for a job is one swipe away.",
                 "icon": "pay-by-card-1"
             },
             {
-                "title": "Enjoy your vacation",
-                "content": "His room, a proper human room although a little too small, lay peacefully between its four familiar",
-                "icon": "heart-1"
+                "title": "Why Waste Time?",
+                "content": "We understand time is invaluable, which is why our team continues to structure convenient functions to save you time.",
+                "icon": "wall-clock-1"
             }
         ]
     },
     "jumbotron": {
-        "title": "Ready for your next holidays?",
-        "button": "Get started",
-        "link": "/category-rooms",
-        "img": "img/photo/photo-1497436072909-60f360e1d4b1.jpg"
+        "title": "Ready To Find Your Next Step?",
+        "button": "Get Started",
+        "link": "/category-SignUp",
+        "img": "img/photo/buildings-1804479_1920.jpg"
     },
     "testimonials": {
-        "title": "Our dear customers said about us",
+        "title": "Hear What People Have to Say About Our Platform:",
         "subTitle": "Testimonials",
         "swiperItems": [
             {
-                "title": "Jessica Watson",
-                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+                "title": "Emily McCallum",
+                "content": "The Sail mobile platform was fast, efficient, and recommended thousands of jobs for me that were one swipe away. Sail is a revolutionary application that everyone should use when searching for employment.",
                 "avatar": "img/avatar/avatar-3.jpg"
             },
             {
-                "title": "Jessica Watson",
-                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+                "title": "Matthew Weiss",
+                "content": "The Sail application saved me hours of time applying for jobs. I was blown away by the speed and recommendations the platform was able to provide.",
                 "avatar": "img/avatar/avatar-3.jpg"
             },
             {
-                "title": "Jessica Watson",
-                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+                "title": "Rachel Manning",
+                "content": "Sail is an efficient job board that is user friendly. It was easy to learn and get started searching for the next step in my career path. ",
                 "avatar": "img/avatar/avatar-3.jpg"
             },
             {
-                "title": "Jessica Watson",
-                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+                "title": "Austin Spicer",
+                "content": "I was able to apply for jobs in seconds. The mobile application is simple to use and provided me thousands of great opportunities to apply for.",
                 "avatar": "img/avatar/avatar-3.jpg"
             },
             {
-                "title": "Jessica Watson",
-                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+                "title": "Megan Wing",
+                "content": "I recommend this platform to everyone who is searching for a job. It is the stress free way to find your next career.",
                 "avatar": "img/avatar/avatar-3.jpg"
             },
             {
-                "title": "Jessica Watson",
-                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+                "title": "Amy",
+                "content": "Before I started using Sail to apply for jobs, it would take me 20 minutes to apply for a position that I was interested in. Sail helped save me countless hours and removed the tedious steps in the application process.",
                 "avatar": "img/avatar/avatar-3.jpg"
             }
         ]
     },
     "blogPosts": {
-        "title": "From our travel blog",
-        "subTitle": "Stories from around the globe",
-        "button": "See all articles",
+        "title": "Download Our Mobile App",
+        "subTitle": "Apply On the Go One Swipe At a Time",
+        "button": "Download Now",
         "buttonLink": "/blog"
     }
 }
