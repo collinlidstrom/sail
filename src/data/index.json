@@ -1,31 +1,158 @@
 {
-  "hero": {
-    "title": "Stay like a local",
-    "subTitle": "The best holiday experience"
-  },
-  "swiperPoster": "photo-1501621965065-c6e1cf6b53e2-lowres.jpg",
-  "swiperImages": [
-    "photo-1501621965065-c6e1cf6b53e2.jpg",
-    "photo-1519974719765-e6559eac2575.jpg",
-    "photo-1490578474895-699cd4e2cf59.jpg",
-    "photo-1534850336045-c6c6d287f89e.jpg"
-  ],
-  "searchOptions": [
-    {
-      "value": "small",
-      "label": "Restaurants"
+    "hero": {
+        "title": "Set Sail to New Beginnings ",
+        "subTitle": "The One-Step Application Platform "
     },
-    {
-      "value": "medium",
-      "label": "Hotels"
+    "swiperPoster": "sailing-boat-569336_1920.jpg",
+    "swiperImages": [
+        "photo-1501621965065-c6e1cf6b53e2.jpg",
+        "photo-1519974719765-e6559eac2575.jpg",
+        "photo-1490578474895-699cd4e2cf59.jpg",
+        "photo-1534850336045-c6c6d287f89e.jpg"
+    ],
+    "searchOptions": [
+        {
+            "value": "small",
+            "label": "Finance"
+        },
+        {
+            "value": "medium",
+            "label": "Healthcare"
+        },
+        {
+            "value": "large",
+            "label": "Software Engineering"
+        },
+        {
+            "value": "x-large",
+            "label": "Construction"
+        },
+        {
+            "value": "large",
+            "label": "Government"
+        },
+        {
+            "value": "large",
+            "label": "Retail"
+        },
+        {
+            "value": "large",
+            "label": "Engineering"
+        },
+        {
+            "value": "large",
+            "label": "Agriculture"
+        },
+        {
+            "value": "large",
+            "label": "Digital Media"
+        },
+        {
+            "value": "large",
+            "label": "Information Technology"
+        },
+        {
+            "value": "large",
+            "label": "Hospitality"
+        },
+        {
+            "value": "large",
+            "label": "Law, Public Safety, Corrections"
+        },
+        {
+            "value": "large",
+            "label": "Transportation and Logistics"
+        },
+        {
+            "value": "large",
+            "label": "Marketing and Sales"
+        },
+        {
+            "value": "large",
+            "label": "Dental"
+        },
+        {
+            "value": "large",
+            "label": "Arts"
+        },
+        {
+            "value": "large",
+            "label": "Oil and Gas"
+        },
+        {
+            "value": "large",
+            "label": "Consumer Goods"
+        }
+    ],
+    "topBlocks": {
+        "title": "Applying With Us is Easy",
+        "subTitle": "One-of-a-kind Career Application Platform",
+        "blocks": [
+            {
+                "title": "Find Your Dream Job",
+                "content": "Sail is engineered with machine learning technology that tailors your job searching experience. With millions of job listings daily, we continue to provide users new opportunities in search of their dream job.",
+                "icon": "destination-map-1"
+            },
+            {
+                "title": "Apply With One Swipe",
+                "content": "Our platform provides users a fast and efficient method to apply for jobs. Applying for a job is one swipe away.",
+                "icon": "pay-by-card-1"
+            },
+            {
+                "title": "Why Waste Time?",
+                "content": "We understand time is invaluable, which is why our team continues to structure convenient functions to save you time.",
+                "icon": "wall-clock-1"
+            }
+        ]
     },
-    {
-      "value": "large",
-      "label": "Cafes"
+    "jumbotron": {
+        "title": "Ready To Find Your Next Step?",
+        "button": "Get Started",
+        "link": "/category-SignUp",
+        "img": "img/photo/buildings-1804479_1920.jpg"
     },
-    {
-      "value": "x-large",
-      "label": "Garages"
+    "testimonials": {
+        "title": "Hear What People Have to Say About Our Platform:",
+        "subTitle": "Testimonials",
+        "swiperItems": [
+            {
+                "title": "Emily McCallum",
+                "content": "The Sail mobile platform was fast, efficient, and recommended thousands of jobs for me that were one swipe away. Sail is a revolutionary application that everyone should use when searching for employment.",
+                "avatar": "img/avatar/avatar-3.jpg"
+            },
+            {
+                "title": "Matthew Weiss",
+                "content": "The Sail application saved me hours of time applying for jobs. I was blown away by the speed and recommendations the platform was able to provide.",
+                "avatar": "img/avatar/avatar-3.jpg"
+            },
+            {
+                "title": "Rachel Manning",
+                "content": "Sail is an efficient job board that is user friendly. It was easy to learn and get started searching for the next step in my career path. ",
+                "avatar": "img/avatar/avatar-3.jpg"
+            },
+            {
+                "title": "Austin Spicer",
+                "content": "I was able to apply for jobs in seconds. The mobile application is simple to use and provided me thousands of great opportunities to apply for.",
+                "avatar": "img/avatar/avatar-3.jpg"
+            },
+            {
+                "title": "Megan Wing",
+                "content": "I recommend this platform to everyone who is searching for a job. It is the stress free way to find your next career.",
+                "avatar": "img/avatar/avatar-3.jpg"
+            },
+            {
+                "title": "Amy",
+                "content": "Before I started using Sail to apply for jobs, it would take me 20 minutes to apply for a position that I was interested in. Sail helped save me countless hours and removed the tedious steps in the application process.",
+                "avatar": "img/avatar/avatar-3.jpg"
+            }
+        ]
+    },
+    "blogPosts": {
+        "title": "Download Our Mobile App",
+        "subTitle": "Apply On the Go One Swipe At a Time",
+        "button": "Download Now",
+        "buttonLink": "/blog"
+
     }
   ],
   "topBlocks": {

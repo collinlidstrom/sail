@@ -1,106 +1,73 @@
 {
-    "title": "Plans & Pricing",
-    "subtitle": "Pricing",
-    "content": "Flexible options that move with you",
+    "title": "Product Plans & Pricing",
+    "subTitle": "Pricing",
+    "content": "Flexible Options That Move With You",
+    "img": "img/photo/adwords.jpg",
     "columns": [
         {
-            "title": "Free",
+            "title": "Standard - Post Jobs For Free",
             "price": "$0",
             "items": [
                 {
-                    "title": "Single User",
+                    "title": "Post Unlimited Job Postings",
                     "status": true
                 },
                 {
-                    "title": "5GB Storage",
+                    "title": "Tailored Applicant Searches",
                     "status": true
                 },
                 {
-                    "title": "Unlimited Public Projects",
-                    "status": true
-                },
-                {
-                    "title": "Community Access",
+                    "title": "No Time Limitations",
                     "status": false
                 },
                 {
-                    "title": "Unlimited Private Projects",
+                    "title": "Premium Posting Placement",
                     "status": false
                 },
                 {
-                    "title": "Dedicated Phone Support",
+                    "title": "'Instant Match' Resume Recommendations",
                     "status": false
                 },
                 {
-                    "title": "Monthly Status Reports",
-                    "status": false
-                }
-            ]
-        },
-        {
-            "title": "Plus",
-            "price": "$9",
-            "items": [
-                {
-                    "title": "Single User",
-                    "status": true
-                },
-                {
-                    "title": "5GB Storage",
-                    "status": true
-                },
-                {
-                    "title": "Unlimited Public Projects",
-                    "status": true
-                },
-                {
-                    "title": "Community Access",
-                    "status": true
-                },
-                {
-                    "title": "Unlimited Private Projects",
-                    "status": true
-                },
-                {
-                    "title": "Dedicated Phone Support",
+                    "title": "Search Engine Optimization",
                     "status": false
                 },
                 {
-                    "title": "Monthly Status Reports",
+                    "title": "Monthly Job Status Reports",
                     "status": false
                 }
             ]
         },
         {
-            "title": "Pro",
-            "price": "$30",
+            "title": "Premium - You Decide How Much To Spend",
+            "price": "$",
             "items": [
                 {
-                    "title": "Single User",
+                    "title": "Post Unlimited Job Postings",
                     "status": true
                 },
                 {
-                    "title": "5GB Storage",
+                    "title": "Tailored Applicant Searches",
                     "status": true
                 },
                 {
-                    "title": "Unlimited Public Projects",
+                    "title": "No Time Limitations",
                     "status": true
                 },
                 {
-                    "title": "Community Access",
+                    "title": "Premium Posting Placement",
                     "status": true
                 },
                 {
-                    "title": "Unlimited Private Projects",
+                    "title": "'Instant Match' Resume Recommendations",
                     "status": true
                 },
                 {
-                    "title": "Dedicated Phone Support",
+                    "title": "Search Engine Optimization",
                     "status": true
                 },
                 {
-                    "title": "Monthly Status Reports",
+                    "title": "Monthly Job Status Reports",
                     "status": true
                 }
             ]

@@ -99,9 +99,9 @@ const Header = (props) => {
             <Link href="/" passHref>
               <a className="py-1 navbar-brand">
                 <img
-                  src="/content/svg/logo.svg"
-                  width="138"
-                  height="31"
+                  src="/content/svg/SAIL.PNG"
+                  width="50"
+                  height="41"
                   alt="Directory logo"
                 />
               </a>

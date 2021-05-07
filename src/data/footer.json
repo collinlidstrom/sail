@@ -1,7 +1,7 @@
 [
     {
-        "title": "Directory",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+        "title": "Sail With Us",
+        "content": "Stay Connected With Us and View Our Social Media Content Below:",
         "social": [
             {
                 "title": "twitter",
@@ -27,41 +27,33 @@
         "lg": "4"
     },
     {
-        "title": "Rentals",
+        "title": "Additional Resources",
         "links": [
             {
-                "title": "Rooms",
+                "title": "Company Reviews",
                 "link": "/"
             },
             {
-                "title": "Map on top",
+                "title": "Career Development Advice",
                 "link": "/category-rooms"
             },
             {
-                "title": "Side map",
+                "title": "Salary and Benefit Tools",
                 "link": "/category-2-rooms"
-            },
-            {
-                "title": "No map",
-                "link": "/category-3-rooms"
-            },
-            {
-                "title": "Room detail",
-                "link": "/detail-rooms"
             }
         ],
         "lg": "2",
         "md": "6"
     },
     {
-        "title": "Pages",
+        "title": "Additional Pages",
         "links": [
             {
-                "title": "Comparison",
+                "title": "Advertise With Us",
                 "link": "/compare"
             },
             {
-                "title": "Team",
+                "title": "Join Our Team",
                 "link": "/team"
             },
             {
@@ -73,8 +65,8 @@
         "md": "6"
     },
     {
-        "title": "Daily Offers & Discounts",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At itaque temporibus.",
+        "title": "Interested In Receiving Updates On Job Openings In Your Industry?",
+        "content": "Enter your email below so our team can provide you updates when openings become available.",
         "contentBottomMargin": "3",
         "form": {
             "placeholder": "Your Email Address"

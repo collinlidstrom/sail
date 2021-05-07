@@ -44,9 +44,6 @@ const Index = () => {
           className="hero-slider"
           wrapperClasses="dark-overlay"
           data={data.swiperImages}
-          simple={true}
-          effect="fade"
-          speed={2000}
           allowTouchMove={false}
           pagination={false}
           autoplay={true}

@@ -1,31 +1,37 @@
 {
     "swiper": [
         {
-            "title": "Japan",
-            "subTitle": "Blue & White",
-            "content": "His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table.",
-            "img": "img/photo/photo-1493976040374-85c8e12f0c0e.jpg",
+            "title": "Advertise With Us",
+            "subTitle": "Get Access To Our Large UserBase",
+            "content": "Our Platform Offers Many Opportunities to engage with users and display digital advertisements. The Sail Platform is built to enable HTML, Mobile, and in-app advertisements, so we can display several options. To learn more and get in contact with a representative from our team please contact our sales team.",
+            "img": "img/photo/adwords.jpg",
             "parallax": "-500",
-            "button": "Start exploring Japan",
+            "button": "Start Advertising Today",
             "buttonLink": "#",
             "buttonClasses": "d-none d-sm-inline-block",
             "iconsRight": [
                 {
-                    "title": "Flights",
-                    "badge": "from $345",
-                    "icon": "airplane-mode-1",
+                    "title": "Interstitial",
+                    "badge": "Pay Per CPM",
+                    "icon": "iphone-1",
                     "link": "#"
                 },
                 {
-                    "title": "Holidays",
-                    "badge": "from $1,245",
-                    "icon": "suitcase-1",
+                    "title": "Video",
+                    "badge": "Pay Per CPM",
+                    "icon": "laptop-screen-1",
                     "link": "#"
                 },
                 {
-                    "title": "Guide & gallery",
-                    "content": "See more",
-                    "icon": "image-gallery-1",
+                    "title": "Native",
+                    "badge": "Pay Per CPM",
+                    "icon": "iphone-1",
+                    "link": "#"
+                },
+                {
+                    "title": "Banner Ad",
+                    "badge": "Pay Per CPM",
+                    "icon": "laptop-screen-1",
                     "link": "#"
                 }
             ]
@@ -92,94 +98,94 @@
     ],
     "numberedBlocks": [
         {
-            "title": "Travel",
-            "content": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his"
-        },
-        {
-            "title": "Relax",
-            "content": "The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size."
-        },
-        {
             "title": "Explore",
-            "content": "His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samp."
+            "content": "To get started, explore the different advertising options our platform has to offer. Our platform is accomidating to four different advertisement models. We offer the following, Native, Interstitial, Banner, and Videos Ads."
+        },
+        {
+            "title": "Attract",
+            "content": "Content is key for getting users attention. We have several opportunities for businesses to advertise on our site that will ensure users are able to see the ads displayed."
+        },
+        {
+            "title": "Engage",
+            "content": "The Sail platform is mindless application that attracts several users to apply for job openings around the world. On our mobile application as users are swiping based on preferences we display advertisements that appear in front of them. Our HTML website displays banner and video advertisement space that has proven to be compelling and useful to many businesses who choose to partner with us."
         }
     ],
     "imageDivider": "img/photo/places-divider.jpg",
     "searchOptions": [
         {
             "value": "small",
-            "label": "Restaurants"
+            "label": "Interstitial"
         },
         {
             "value": "medium",
-            "label": "Hotels"
+            "label": "Native"
         },
         {
             "value": "large",
-            "label": "Cafes"
+            "label": "Banner Ads"
         },
         {
             "value": "x-large",
-            "label": "Garages"
+            "label": "Video Ad"
         }
     ],
     "popular": {
-        "title": "Popular destinations in August",
-        "content": "Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.",
-        "button": "Take me there",
+        "title": "Popular Job Searches in May",
+        "content": "See what others around the world are searching for, and stay up to date with the latest trends among job searches.",
+        "button": "Apply Now",
         "places": [
             {
-                "title": "Kathmandu",
-                "subTitle": "Spirituality & mountains",
-                "img": "img/photo/kathmandu.jpg",
+                "title": "United Health Care",
+                "subTitle": "Data Scientist",
+                "img": "img/photo/UNH.png",
                 "link": "/category-3"
             },
             {
-                "title": "Medellín",
-                "subTitle": "Tropical paradise",
-                "img": "img/photo/medellin.jpg",
+                "title": "CVS",
+                "subTitle": "Health and Wellness Analyst",
+                "img": "img/photo/cvs.png",
                 "link": "/category-3"
             },
             {
-                "title": "Bangkok",
-                "subTitle": "Temples and street food",
-                "img": "img/photo/bangkok.jpg",
+                "title": "McDonald's",
+                "subTitle": "Menu Specialist",
+                "img": "img/photo/mcds.png",
                 "link": "/category-3"
             },
             {
-                "title": "Kyoto",
-                "subTitle": "Imperial capital",
-                "img": "img/photo/kyoto.jpg",
+                "title": "Salesforce",
+                "subTitle": "CRM Specialist",
+                "img": "img/photo/salesforce.png",
                 "link": "/category-3"
             },
             {
-                "title": "Los Angeles",
-                "subTitle": "City of angeles",
-                "img": "img/photo/los-angeles.jpg",
+                "title": "Facebook",
+                "subTitle": "Software Engineer",
+                "img": "img/photo/fb.png",
                 "link": "/category-3"
             },
             {
-                "title": "London",
-                "subTitle": "Galleries and shopping",
-                "img": "img/photo/london.jpg",
+                "title": "Boeing",
+                "subTitle": "Aerospace Engineer",
+                "img": "img/photo/boeing.png",
                 "link": "/category-3"
             },
             {
-                "title": "Madrid",
-                "subTitle": "Aquí no hay playa",
-                "img": "img/photo/madrid.jpg",
+                "title": "Citadel",
+                "subTitle": "Commodity Trader",
+                "img": "img/photo/citadel.png",
                 "link": "/category-3"
             },
             {
-                "title": "Havana",
-                "subTitle": "La Havana",
-                "img": "img/photo/havana.jpg",
+                "title": "Coinbase",
+                "subTitle": "Cryptocurrency Specialist",
+                "img": "img/photo/coin.png",
                 "link": "/category-3"
             },
             {
-                "title": "Barcelona",
-                "subTitle": "Dalí, Gaudí, Barrio Gotico",
-                "img": "img/photo/barcelona.jpg",
+                "title": "Bumble",
+                "subTitle": "Software Engineer",
+                "img": "img/photo/bumble.png",
                 "link": "/category-3"
             }
         ]

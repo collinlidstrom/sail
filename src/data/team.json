@@ -1,54 +1,54 @@
 {
-    "title": "Meat our team",
+    "title": "Meet Our Team",
     "subtitle": "Team",
-    "content": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections",
+    "content": "Our team is structured with individuals who come from unique backgrounds. Together we each provide a set of skills that has enabled us to develop the Sail Platform and continue helping millions around the world find employment.",
     "founders": {
-        "title": "Our founders",
+        "title": "Our Founding Team",
         "items": [
             {
-                "title": "Meredith Goodwin",
-                "content": "CEO & Founder",
-                "img": "agent-0.png",
+                "title": "Nicholas Strebin",
+                "content": "CEO & Co-Founder",
+                "img": "nickpic.PNG",
                 "link": "#"
             },
             {
-                "title": "Weeks Garrett",
-                "content": "Co-founder",
-                "img": "agent-1.png",
+                "title": "Collin Lidstrom",
+                "content": "CTO & Co-founder",
+                "img": "collin.PNG",
                 "link": "#"
             },
             {
-                "title": "Fisher Bauer",
-                "content": "CTO",
-                "img": "agent-2.png",
+                "title": "Chase Fegenbush",
+                "content": "CSO & Co-founder",
+                "img": "chase.PNG",
                 "link": "#"
             }
         ]
     },
     "quote": {
-        "title": "Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.",
-        "author": "Meredith Goodwin, Founder",
-        "avatar": "avatar-0.jpg"
+        "title": "Together our team is excited to provide users with an innovative platform that creates a one step method to apply for job postings.",
+        "author": "Chase Fegenbush, Chief Strategy Officer",
+        "avatar": "chase.PNG"
     },
     "sales": {
         "title": "Sales",
         "items": [
             {
-                "title": "Meredith Goodwin",
-                "content": "CEO & Founder",
-                "img": "agent-0.png",
+                "title": "Erich Reuter",
+                "content": "Chief Business Development Officer & Co-Founder",
+                "img": "erich.PNG",
                 "link": "#"
             },
             {
-                "title": "Weeks Garrett",
-                "content": "Co-founder",
-                "img": "agent-1.png",
+                "title": "Nicholas Reuter",
+                "content": "Chief Product Officer & Co-founder",
+                "img": "nickreuter.PNG",
                 "link": "#"
             },
             {
-                "title": "Fisher Bauer",
-                "content": "CTO",
-                "img": "agent-2.png",
+                "title": "Matthew Gross",
+                "content": "Chief Financial Officer",
+                "img": "mattgross.PNG",
                 "link": "#"
             },
             {
@@ -63,9 +63,9 @@
         "title": "Marketing",
         "items": [
             {
-                "title": "Meredith Goodwin",
-                "content": "CEO & Founder",
-                "img": "agent-0.png",
+                "title": "Jack Kjemhus",
+                "content": "Chief Marketing Officer",
+                "img": "Jack.PNG",
                 "link": "#"
             },
             {

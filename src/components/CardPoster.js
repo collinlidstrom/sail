@@ -18,7 +18,7 @@ const CardPoster = (props) => {
         className="bg-image"
         alt="Card image"
         loading="eager"
-        sizes="(max-width: 576px) 100vw, 530px"
+        sizes="(max-width: 776px) 100vw, 776px"
       />
       <CardBody className="card-body overlay-content">
         <CardTitle tag="h6" className="card-title text-shadow text-uppercase">

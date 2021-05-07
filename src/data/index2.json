@@ -1,8 +1,8 @@
 {
     "hero": {
-        "title": "Discover Directory",
-        "subTitle": "Uncover the best places to eat, drink, and shop nearest to you.",
-        "img": "img/photo/photo-1525610553991-2bede1a236e2.jpg"
+        "title": "Prepare Yourself For The Next Step",
+        "subTitle": "Get the Confidence and Practice You Need.",
+        "img": "img/photo/pier-498523_1280.jpg"
     },
     "searchOptions": [
         {
@@ -22,34 +22,38 @@
             "label": "Garages"
         }
     ],
-    "popularCities": {
-        "title": "What's trending",
-        "subTitle": "Most popular cities"
-    },
+
+
     "discover": {
-        "title": "Discover great local businesses around you",
-        "subTitle": "One-of-a-kind directory app",
+        "title": "Discover the Great Resources Our Team Provides : ",
+        "subTitle": "We're Here to Make the Employment Process Easy",
         "blocks": [
             {
-                "title": "Find the perfect place",
+                "title": "Practice Mock Interviewing",
                 "content": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed in",
-                "icon": "love-pin-1",
+                "icon": "user-1",
                 "color": "secondary"
             },
             {
-                "title": "Book your seats",
+                "title": "Resume Resources and Templates",
                 "content": "The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pit",
-                "icon": "pay-by-card-1",
+                "icon": "identity-1",
                 "color": "primary"
             },
             {
-                "title": "Enjoy your evening",
+                "title": "Cover Letter Resources and Templates",
                 "content": "His room, a proper human room although a little too small, lay peacefully between its four familiar",
-                "icon": "food-1",
+                "icon": "reading-1",
                 "color": "secondary"
             },
             {
-                "title": "Earn points",
+                "title": "Email Templates",
+                "content": "Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of",
+                "icon": "read-email-1",
+                "color": "primary"
+            },
+            {
+                "title": "Communication and Negotiating",
                 "content": "Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of",
                 "icon": "pay-1",
                 "color": "primary"
@@ -57,28 +61,28 @@
         ]
     },
     "popular": {
-        "title": "Popular places around you",
-        "subTitle": "Try something new today",
-        "button": "See all places",
+        "title": "Popular Skills Within Your Profession",
+        "subTitle": "Develop New Skills to Set Yourself Apart",
+        "button": "See All Skills",
         "buttonLink": "/category-2"
     },
     "travel": {
-        "title": "Travel & Explore",
-        "subtitle": "Find the best spots",
-        "content": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections",
-        "button": "Get started",
-        "buttonLink": "/category-rooms",
-        "img": "photo-1507915135761-41a0a222c709.jpg"
+        "title": "Need Additional Help?",
+        "subtitle": "Get In Contact With Our Team",
+        "content": "We Understand that these resources might not be the answer everyone is looking for. Reach out to our team for additional help and we will be happy to help you locate the resources you need to grow.",
+        "button": "Contact Us",
+        "buttonLink": "/contact",
+        "img": "new-york.jpg"
     },
     "brands": {
-        "title": "Our brands",
+        "title": "Additional Resources",
         "brands": [
             {
-                "title": "Brand 1",
+                "title": "Unemployment",
                 "img": "img/brand/brand-1.svg"
             },
             {
-                "title": "Brand 2",
+                "title": "Volunteer Opportunities",
                 "img": "img/brand/brand-2.svg"
             },
             {
@@ -116,9 +120,9 @@
         ]
     },
     "bottomBlock": {
-        "title": "Start using Directory today",
-        "subTitle": "Directory is the best way to find & discover great local businesses",
-        "content": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed in",
+        "title": "Start Using Sail Today",
+        "subTitle": "Apply One Swipe At A Time",
+        "content": "Sail is the convenient way to find & apply for job opportunities around the world.",
         "button": "Create Your Account",
         "buttonLink": "#",
         "small": "It's free!"
