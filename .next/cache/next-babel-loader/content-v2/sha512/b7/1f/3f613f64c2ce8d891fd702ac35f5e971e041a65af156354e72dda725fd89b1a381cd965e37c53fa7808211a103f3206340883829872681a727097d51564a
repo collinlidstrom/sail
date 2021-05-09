@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\n\nconst Icon = props => __jsx(\"svg\", {\n  className: `svg-icon ${props.className ? props.className : \"\"}`,\n  style: props.style\n}, __jsx(\"use\", {\n  xlinkHref: `#${props.icon}`\n}));\n\nexport default Icon;","map":null,"metadata":{},"sourceType":"module"}

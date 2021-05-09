@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\nimport OrionSprite from \"../assets/svg/orion-svg-sprite.svg\";\n\nconst Icons = () => __jsx(\"div\", {\n  style: {\n    position: \"absolute\"\n  }\n}, __jsx(OrionSprite, null));\n\nexport default Icons;","map":null,"metadata":{},"sourceType":"module"}
