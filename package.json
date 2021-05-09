@@ -1,23 +1,17 @@
 {
-     "name": "directory_react_theme",
-     "title": "Directory – Directory & Listing React Theme",
+     "name": "sail",
      "version": "1.1.0",
-     "description": "",
-     "homepage": "https://themes.getbootstrap.com/product/directory-directory-listing-react-theme/",
-     "author": "Bootstrapious - https://bootstrapious.com",
-     "contact": "hello@bootstrapious.com",
-     "bugs": "",
      "scripts": {
           "dev": "next dev",
-          "build": "next build",
-          "start": "next start",
-          "export": "next build && next export"
+          "build": "next build && next export",
+          "start": "next start"
      },
      "dependencies": {
           "@fortawesome/fontawesome-free": "^5.15.1",
           "@fortawesome/fontawesome-svg-core": "^1.2.32",
           "@fortawesome/free-solid-svg-icons": "^5.15.1",
           "@fortawesome/react-fontawesome": "^0.1.12",
+          "aws": "*",
           "leaflet": "^1.7.1",
           "next": "^10.2.0",
           "next-compose-plugins": "^2.2.1",
