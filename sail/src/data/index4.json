@@ -1,0 +1,170 @@
+{
+    "hero": "/content/img/photo/lake.jpg",
+    "title": "Set Sail With Us",
+    "subTitle": "Uncover the Best Talent Worldwide and Start Building the Team You Desire.",
+    "searchTabs": {
+        "tabs": [
+            {
+                "title": "HR and Recruitment Solutions"
+            },
+            {
+                "title": "Features Sail Provides"
+            },
+            {
+                "title": "Optimize Your Search Listings"
+            }
+        ],
+        "locationOptions": [
+            { "value": "city_0", "label": "San Francisco" },
+            { "value": "city_1", "label": "Los Angeles" },
+            { "value": "city_2", "label": "Santa Monica" },
+            { "value": "city_3", "label": "San Diego" },
+            { "value": "city_4", "label": "Fresno" }
+        ],
+        "typeOptions": [
+            { "value": "type_0", "label": "Duplex" },
+            { "value": "type_1", "label": "Appartment" },
+            { "value": "type_2", "label": "House" },
+            { "value": "type_3", "label": "Land" },
+            { "value": "type_4", "label": "Other" }
+        ],
+        "priceOptions": [
+            { "value": "price_0", "label": "$5,000" },
+            { "value": "price_1", "label": "$10,000" },
+            { "value": "price_2", "label": "$25,000" },
+            { "value": "price_3", "label": "$50,000" }
+        ]
+    },
+    "discover": {
+        "title": "Discover How Our Platform Can Benefit Your Business",
+        "subTitle": "The Talent You Need Is One Click Away",
+        "blocks": [
+            {
+                "title": "Get Access to Our Large UserBase",
+                "content": "Our platform is one of the fastest growing HR platforms today. Our platform provides users a unique one step experience that allows them to save time and conveniently apply to jobs available. ",
+                "icon": "user-1",
+                "color": "primary"
+            },
+            {
+                "title": "Tailored Applicant Qualifications",
+                "content": "Sail's system settings enables employers to set the parameters and qualifications that they are looking for to ensure that applicants who apply match their needs.",
+                "icon": "checked-circle-1",
+                "color": "secondary"
+            },
+            {
+                "title": "Geo-Location Search Features",
+                "content": "We offer employers several options to narrow searches for candidates they desire. Location based settings are enabled to capture users nearby the job listing. Employers also have the opportunity to upgrade to premium placements for their listings to provide search engine optimization and preferred placement.",
+                "icon": "destination-map-1",
+                "color": "primary"
+            },
+            {
+                "title": "Obtain Qualified Candidates Instantly",
+                "content": "Staffing can be stressful and take time. We understand that some circumstances are time sensitive, which is why we offer employers the option to purchase our 'instant match' service. Sail is engineered to provide employers recommendations of qualified candidates the moment they post a job and sign up for this service.",
+                "icon": "identity-1",
+                "color": "primary"
+            },
+            {
+                "title": "Premium Posting Placement",
+                "content": "Some circumstances are time sensitive and require employers to get more attention. Our premium posting options enable employers to bid on their posting placement. Employers are able to see their placement when they have completed the bidding process. To place a premium job posting please see the link below.",
+                "icon": "identity-1",
+                "color": "primary"
+            },
+            {
+                "title": "Search Engine Optimization",
+                "content": "Employers who choose to post openings with the premium platform are more likely to appear when users search keywords. Our platform enables premium listings to match with key search words and appear towards the top of most search results.",
+                "icon": "identity-1",
+                "color": "primary"
+            },
+            {
+                "title": "'Instant Match' Resume Recommendations",
+                "content": "We Understand that filling shoes in a business is important and time sensitive. Our Resume Match service recommends users to employers who meet the qualifications they are looking for.",
+                "icon": "identity-1",
+                "color": "primary"
+            }
+        ]
+    },
+    "divider": {
+        "title": "What Are You Waiting For?",
+        "subTitle": "Start Posting With Us Today",
+        "content": "'Sail has helped our business staff many employees who are extremely talented' - Business Owner",
+        "button": "Create Your Account Today!",
+        "buttonLink": "#"
+    },
+    "team": {
+        "title": "Enterprise Pricing Options",
+        "subTitle": "Pricing Structure",
+        "button": "View the Pricing Structure",
+        "buttonLink": "/team",
+        "members": [
+            {
+                "title": "Meredith Goodwin",
+                "type": "CEO & Founder",
+                "avatar": "img/avatar/agent-0.png",
+                "link": "#"
+            },
+            {
+                "title": "Weeks Garrett",
+                "type": "Co-founder",
+                "avatar": "img/avatar/agent-1.png",
+                "link": "#"
+            },
+            {
+                "title": "Fisher Bauer",
+                "type": "CTO",
+                "avatar": "img/avatar/agent-2.png",
+                "link": "#"
+            },
+            {
+                "title": "Aguilar Webb",
+                "type": "Community",
+                "avatar": "img/avatar/agent-3.png",
+                "link": "#"
+            }
+        ]
+    },
+    "brands": {
+        "title": "Recognized By: ",
+        "brands": [
+            {
+                "title": "Brand 1",
+                "img": "img/brand/brand-1.svg"
+            },
+            {
+                "title": "Brand 2",
+                "img": "img/brand/brand-2.svg"
+            },
+            {
+                "title": "Brand 3",
+                "img": "img/brand/brand-3.svg"
+            },
+            {
+                "title": "Brand 4",
+                "img": "img/brand/brand-4.svg"
+            },
+            {
+                "title": "Brand 5",
+                "img": "img/brand/brand-5.svg"
+            },
+            {
+                "title": "Brand 6",
+                "img": "img/brand/brand-6.svg"
+            },
+            {
+                "title": "Brand 1",
+                "img": "img/brand/brand-1.svg"
+            },
+            {
+                "title": "Brand 2",
+                "img": "img/brand/brand-2.svg"
+            },
+            {
+                "title": "Brand 3",
+                "img": "img/brand/brand-3.svg"
+            },
+            {
+                "title": "Brand 4",
+                "img": "img/brand/brand-4.svg"
+            }
+        ]
+    }
+}

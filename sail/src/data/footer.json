@@ -1,0 +1,76 @@
+[
+    {
+        "title": "Sail With Us",
+        "content": "Stay Connected With Us and View Our Social Media Content Below:",
+        "social": [
+            {
+                "title": "twitter",
+                "link": "#"
+            },
+            {
+                "title": "facebook",
+                "link": "#"
+            },
+            {
+                "title": "instagram",
+                "link": "#"
+            },
+            {
+                "title": "pinterest",
+                "link": "#"
+            },
+            {
+                "title": "vimeo",
+                "link": "#"
+            }
+        ],
+        "lg": "4"
+    },
+    {
+        "title": "Additional Resources",
+        "links": [
+            {
+                "title": "Company Reviews",
+                "link": "/"
+            },
+            {
+                "title": "Career Development Advice",
+                "link": "/category-rooms"
+            },
+            {
+                "title": "Salary and Benefit Tools",
+                "link": "/category-2-rooms"
+            }
+        ],
+        "lg": "2",
+        "md": "6"
+    },
+    {
+        "title": "Additional Pages",
+        "links": [
+            {
+                "title": "Advertise With Us",
+                "link": "/compare"
+            },
+            {
+                "title": "Join Our Team",
+                "link": "/team"
+            },
+            {
+                "title": "Contact",
+                "link": "/contact"
+            }
+        ],
+        "lg": "2",
+        "md": "6"
+    },
+    {
+        "title": "Interested In Receiving Updates On Job Openings In Your Industry?",
+        "content": "Enter your email below so our team can provide you updates when openings become available.",
+        "contentBottomMargin": "3",
+        "form": {
+            "placeholder": "Your Email Address"
+        },
+        "lg": "4"
+    }
+]

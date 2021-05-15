@@ -1,0 +1,26 @@
+{
+    "title": "Our Recommendations",
+    "subTitle": "Start Searching for Jobs Within Your Industry",
+    "button": "See All Recommendations",
+    "buttonLink": "/category-2-rooms",
+    "swiperItems": [
+        {
+            "title": "Investment Banking Analyst",
+            "subtitle": "J.P. Morgan Chase",
+            "img": "img/photo/chase.png",
+            "link": "/category-2-rooms"
+        },
+        {
+            "title": "Private Equity Associate",
+            "subtitle": "Harrison Street Real Estate Capital",
+            "img": "img/photo/harrison street.png",
+            "link": "/category-2-rooms"
+        },
+        {
+            "title": "Senior Software Engineer",
+            "subtitle": "Microsoft",
+            "img": "img/photo/microsoft.png",
+            "link": "/category-2-rooms"
+        }
+    ]
+}

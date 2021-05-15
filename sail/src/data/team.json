@@ -1,0 +1,91 @@
+{
+    "title": "Meet Our Team",
+    "subtitle": "Team",
+    "content": "Our team is structured with individuals who come from unique backgrounds. Together we each provide a set of skills that has enabled us to develop the Sail Platform and continue helping millions around the world find employment.",
+    "founders": {
+        "title": "Our Founding Team",
+        "items": [
+            {
+                "title": "Nicholas Strebin",
+                "content": "CEO & Co-Founder",
+                "img": "nickpic.PNG",
+                "link": "#"
+            },
+            {
+                "title": "Collin Lidstrom",
+                "content": "CTO & Co-founder",
+                "img": "collin.PNG",
+                "link": "#"
+            },
+            {
+                "title": "Chase Fegenbush",
+                "content": "CSO & Co-founder",
+                "img": "chase.PNG",
+                "link": "#"
+            }
+        ]
+    },
+    "quote": {
+        "title": "Together our team is excited to provide users with an innovative platform that creates a one step method to apply for job postings.",
+        "author": "Chase Fegenbush, Chief Strategy Officer",
+        "avatar": "chase.PNG"
+    },
+    "sales": {
+        "title": "Sales",
+        "items": [
+            {
+                "title": "Erich Reuter",
+                "content": "Chief Business Development Officer & Co-Founder",
+                "img": "erich.PNG",
+                "link": "#"
+            },
+            {
+                "title": "Nicholas Reuter",
+                "content": "Chief Product Officer & Co-founder",
+                "img": "nickreuter.PNG",
+                "link": "#"
+            },
+            {
+                "title": "Matthew Gross",
+                "content": "Chief Financial Officer",
+                "img": "mattgross.PNG",
+                "link": "#"
+            },
+            {
+                "title": "Aguilar Webb",
+                "content": "Community",
+                "img": "agent-3.png",
+                "link": "#"
+            }
+        ]
+    },
+    "marketing": {
+        "title": "Marketing",
+        "items": [
+            {
+                "title": "Jack Kjemhus",
+                "content": "Chief Marketing Officer",
+                "img": "Jack.PNG",
+                "link": "#"
+            },
+            {
+                "title": "Weeks Garrett",
+                "content": "Co-founder",
+                "img": "agent-1.png",
+                "link": "#"
+            },
+            {
+                "title": "Fisher Bauer",
+                "content": "CTO",
+                "img": "agent-2.png",
+                "link": "#"
+            },
+            {
+                "title": "Aguilar Webb",
+                "content": "Community",
+                "img": "agent-3.png",
+                "link": "#"
+            }
+        ]
+    }
+}

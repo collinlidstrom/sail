@@ -1,0 +1,193 @@
+{
+    "swiper": [
+        {
+            "title": "Advertise With Us",
+            "subTitle": "Get Access To Our Large UserBase",
+            "content": "Our Platform Offers Many Opportunities to engage with users and display digital advertisements. The Sail Platform is built to enable HTML, Mobile, and in-app advertisements, so we can display several options. To learn more and get in contact with a representative from our team please contact our sales team.",
+            "img": "img/photo/adwords.jpg",
+            "parallax": "-500",
+            "button": "Start Advertising Today",
+            "buttonLink": "#",
+            "buttonClasses": "d-none d-sm-inline-block",
+            "iconsRight": [
+                {
+                    "title": "Interstitial",
+                    "badge": "Pay Per CPM",
+                    "icon": "iphone-1",
+                    "link": "#"
+                },
+                {
+                    "title": "Video",
+                    "badge": "Pay Per CPM",
+                    "icon": "laptop-screen-1",
+                    "link": "#"
+                },
+                {
+                    "title": "Native",
+                    "badge": "Pay Per CPM",
+                    "icon": "iphone-1",
+                    "link": "#"
+                },
+                {
+                    "title": "Banner Ad",
+                    "badge": "Pay Per CPM",
+                    "icon": "laptop-screen-1",
+                    "link": "#"
+                }
+            ]
+        },
+        {
+            "title": "Morocco",
+            "content": "Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. He must have tried it a hundred times, shut his eyes so that he wouldn't have to look at the floundering legs, and only stopped when he began to feel a mild, dull pain there that he had never felt before.",
+            "img": "img/photo/photo-1558114965-eeb97aa84c3b.jpg",
+            "parallax": "-500",
+            "button": "Start exploring",
+            "buttonLink": "#",
+            "buttonClasses": "d-md-none",
+            "blocks": [
+                {
+                    "title": "Fez",
+                    "location": "Central Morocco",
+                    "img": "img/photo/fez.jpg",
+                    "link": "/detail-rooms",
+                    "stars": "5"
+                },
+                {
+                    "title": "Marrakech",
+                    "location": "Central Morocco",
+                    "img": "img/photo/marrakech.jpg",
+                    "link": "/detail-rooms",
+                    "stars": "4"
+                },
+                {
+                    "title": "Essaouira",
+                    "location": "Coast",
+                    "img": "img/photo/essaouira.jpg",
+                    "link": "/detail-rooms",
+                    "stars": "5"
+                }
+            ]
+        },
+        {
+            "title": "Peru",
+            "subTitle": "Discover South America",
+            "content": "The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pit",
+            "img": "img/photo/photo-1526392060635-9d6019884377.jpg",
+            "parallax": "-500",
+            "iconsBottom": [
+                {
+                    "title": "Flights",
+                    "badge": "from $345",
+                    "icon": "airplane-mode-1",
+                    "link": "#"
+                },
+                {
+                    "title": "Holidays",
+                    "badge": "from $1,245",
+                    "icon": "suitcase-1",
+                    "link": "#"
+                },
+                {
+                    "title": "Guide & gallery",
+                    "content": "See more",
+                    "icon": "image-gallery-1",
+                    "link": "#"
+                }
+            ]
+        }
+    ],
+    "numberedBlocks": [
+        {
+            "title": "Explore",
+            "content": "To get started, explore the different advertising options our platform has to offer. Our platform is accomidating to four different advertisement models. We offer the following, Native, Interstitial, Banner, and Videos Ads."
+        },
+        {
+            "title": "Attract",
+            "content": "Content is key for getting users attention. We have several opportunities for businesses to advertise on our site that will ensure users are able to see the ads displayed."
+        },
+        {
+            "title": "Engage",
+            "content": "The Sail platform is mindless application that attracts several users to apply for job openings around the world. On our mobile application as users are swiping based on preferences we display advertisements that appear in front of them. Our HTML website displays banner and video advertisement space that has proven to be compelling and useful to many businesses who choose to partner with us."
+        }
+    ],
+    "imageDivider": "img/photo/places-divider.jpg",
+    "searchOptions": [
+        {
+            "value": "small",
+            "label": "Interstitial"
+        },
+        {
+            "value": "medium",
+            "label": "Native"
+        },
+        {
+            "value": "large",
+            "label": "Banner Ads"
+        },
+        {
+            "value": "x-large",
+            "label": "Video Ad"
+        }
+    ],
+    "popular": {
+        "title": "Popular Job Searches in May",
+        "content": "See what others around the world are searching for, and stay up to date with the latest trends among job searches.",
+        "button": "Apply Now",
+        "places": [
+            {
+                "title": "United Health Care",
+                "subTitle": "Data Scientist",
+                "img": "img/photo/UNH.png",
+                "link": "/category-3"
+            },
+            {
+                "title": "CVS",
+                "subTitle": "Health and Wellness Analyst",
+                "img": "img/photo/cvs.png",
+                "link": "/category-3"
+            },
+            {
+                "title": "McDonald's",
+                "subTitle": "Menu Specialist",
+                "img": "img/photo/mcds.png",
+                "link": "/category-3"
+            },
+            {
+                "title": "Salesforce",
+                "subTitle": "CRM Specialist",
+                "img": "img/photo/salesforce.png",
+                "link": "/category-3"
+            },
+            {
+                "title": "Facebook",
+                "subTitle": "Software Engineer",
+                "img": "img/photo/fb.png",
+                "link": "/category-3"
+            },
+            {
+                "title": "Boeing",
+                "subTitle": "Aerospace Engineer",
+                "img": "img/photo/boeing.png",
+                "link": "/category-3"
+            },
+            {
+                "title": "Citadel",
+                "subTitle": "Commodity Trader",
+                "img": "img/photo/citadel.png",
+                "link": "/category-3"
+            },
+            {
+                "title": "Coinbase",
+                "subTitle": "Cryptocurrency Specialist",
+                "img": "img/photo/coin.png",
+                "link": "/category-3"
+            },
+            {
+                "title": "Bumble",
+                "subTitle": "Software Engineer",
+                "img": "img/photo/bumble.png",
+                "link": "/category-3"
+            }
+        ]
+    }
+}

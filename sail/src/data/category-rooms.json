@@ -1,0 +1,51 @@
+{
+  "title": "Career Development Advice",
+  "content": "Explore opportunities to enhance your career development and increase your chances of getting hired and internal growth. We have worked with several individuals to help them discover methods for improvement and ways that they can continue to develop. Please see the resources we offer or career advice below : ",
+  "cityQuarters": {
+    "title": "Career Development Resources",
+    "items": [
+      {
+        "title": "Prep For An Interview",
+        "link": "#"
+      },
+      {
+        "title": "Resume Advice",
+        "link": "#"
+      },
+      {
+        "title": "Common Skills",
+        "link": "#"
+      },
+      {
+        "title": "Personal Goals",
+        "link": "#"
+      },
+      {
+        "title": "Set Yourself Apart From Others",
+        "link": "#"
+      }
+    ]
+  },
+  "sortby": [
+    {
+      "value": "Resume",
+      "label": "Resume Advice"
+    },
+    {
+      "value": "recommended",
+      "label": "Interview Advice"
+    },
+    {
+      "value": "newest",
+      "label": "General Advice"
+    },
+    {
+      "value": "oldest",
+      "label": "Quarterly Reviews"
+    },
+    {
+      "value": "closest",
+      "label": "Promotions and Negotiations"
+    }
+  ]
+}

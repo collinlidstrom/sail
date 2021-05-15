@@ -1,0 +1,76 @@
+{
+    "title": "Product Plans & Pricing",
+    "subTitle": "Pricing",
+    "content": "Flexible Options That Move With You",
+    "img": "img/photo/adwords.jpg",
+    "columns": [
+        {
+            "title": "Standard - Post Jobs For Free",
+            "price": "$0",
+            "items": [
+                {
+                    "title": "Post Unlimited Job Postings",
+                    "status": true
+                },
+                {
+                    "title": "Tailored Applicant Searches",
+                    "status": true
+                },
+                {
+                    "title": "No Time Limitations",
+                    "status": false
+                },
+                {
+                    "title": "Premium Posting Placement",
+                    "status": false
+                },
+                {
+                    "title": "'Instant Match' Resume Recommendations",
+                    "status": false
+                },
+                {
+                    "title": "Search Engine Optimization",
+                    "status": false
+                },
+                {
+                    "title": "Monthly Job Status Reports",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "title": "Premium - You Decide How Much To Spend",
+            "price": "$",
+            "items": [
+                {
+                    "title": "Post Unlimited Job Postings",
+                    "status": true
+                },
+                {
+                    "title": "Tailored Applicant Searches",
+                    "status": true
+                },
+                {
+                    "title": "No Time Limitations",
+                    "status": true
+                },
+                {
+                    "title": "Premium Posting Placement",
+                    "status": true
+                },
+                {
+                    "title": "'Instant Match' Resume Recommendations",
+                    "status": true
+                },
+                {
+                    "title": "Search Engine Optimization",
+                    "status": true
+                },
+                {
+                    "title": "Monthly Job Status Reports",
+                    "status": true
+                }
+            ]
+        }
+    ]
+}
