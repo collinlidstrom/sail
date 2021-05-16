@@ -1,7 +1,0 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/category-2-rooms": "pages/category-2-rooms.js",
-  "/": "pages/index.js"
-}

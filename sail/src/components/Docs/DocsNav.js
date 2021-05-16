@@ -11,10 +11,10 @@ const DocsNav = () => {
     return (
         <div style={{ top: "120px" }} className="sticky-top mb-5">
             <div className="sidebar-block">
-                <h6 className="sidebar-heading ml-3">Documentation</h6>
-                <Nav tag="nav" pills className="flex-column">
+                <h6 className="sidebar-heading ml-3">Upload</h6>
+                <Nav shadow tag="nav" pills className="flex-column">
                     <ActiveLink activeClassName="active" href="/docs/docs-introduction" passHref>
-                        <NavLink className="mb-2">Introduction</NavLink>
+                        <NavLink className="mb-2">Resume</NavLink>
                     </ActiveLink>
                     <ActiveLink activeClassName="active" href="/docs/docs-directory-structure" passHref>
                         <NavLink className="mb-2">Directory structure</NavLink>

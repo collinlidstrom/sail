@@ -22,7 +22,7 @@ export async function getStaticProps() {
   return {
     props: {
       nav: {
-        light: true,
+        light: false,
         classes: "shadow",
         color: "white",
       },
@@ -37,7 +37,8 @@ const Index = () => {
       <section
         className="hero-home"
         style={{
-          backgroundImage: `url(content/img/photo/${data.swiperPoster})`,
+//          backgroundImage: `url(content/img/photo/${data.swiperPoster})`,
+          backgroundImage: `url(/content/img/photo/{data.swiperPoster})`,
         }}
       >
         <Swiper

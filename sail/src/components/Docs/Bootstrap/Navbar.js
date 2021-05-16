@@ -31,13 +31,13 @@ const NavbarComponent = () => {
 
     return (
 
-        <div id="navbar" className="docs-item element">
+        <div id="navbar" className="docs-item element" >
             <h5 className="text-uppercase mb-4">Navbar</h5>
             <div className="docs-desc"><p className="lead"> Bootstrap’s powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin. See the <a href="https://reactstrap.github.io/components/navbar/">ReactStrap documentation</a> for more details. </p></div>
             <div className="mt-5">
                 <Navbar expand="lg" light className="shadow mb-3">
                     <Container fluid>
-                        <NavbarBrand href="/" className="text-uppercase font-weight-bold"><span>Directory  </span></NavbarBrand>
+                        <NavbarBrand href="/" className="text-uppercase font-weight-bold"><span>Sail </span></NavbarBrand>
                         <NavbarToggler aria-label="Toggle navigation" onClick={() => toggle("navbar")} ><i className="fa fa-bars" /></NavbarToggler>
                         <Collapse navbar isOpen={open["navbar"]}>
                             <Nav navbar className="mr-auto">
@@ -63,7 +63,7 @@ const NavbarComponent = () => {
                 </Navbar>
                 <Navbar expand="lg" light className="shadow mb-3">
                     <Container fluid>
-                        <NavbarBrand href="/"><span className="font-weight-bold text-uppercase">Directory  </span></NavbarBrand>
+                        <NavbarBrand href="/"><span className="font-weight-bold text-uppercase">Sail  </span></NavbarBrand>
                         <NavbarToggler aria-label="Toggle navigation" onClick={() => toggle("navbar-2")} ><i className="fa fa-bars" /></NavbarToggler>
                         <Collapse navbar isOpen={open["navbar-2"]}>
                             <Nav navbar className="mx-auto">
@@ -97,7 +97,7 @@ const NavbarComponent = () => {
                 </Navbar>
                 <Navbar expand="lg" dark className="shadow bg-dark mb-3">
                     <Container fluid>
-                        <NavbarBrand href="/"><span className="font-weight-bold text-uppercase">Directory  </span></NavbarBrand>
+                        <NavbarBrand href="/"><span className="font-weight-bold text-uppercase">Sail  </span></NavbarBrand>
                         <NavbarToggler aria-label="Toggle navigation" onClick={() => toggle("navbar-3")} ><i className="fa fa-bars" /></NavbarToggler>
                         <Collapse navbar isOpen={open["navbar-3"]}>
                             <Nav navbar className="mx-auto">
@@ -152,7 +152,7 @@ export default () => {
     return (
         <Navbar expand="lg" light>
             <Container fluid>
-                <NavbarBrand href="/"><span>Directory  </span></NavbarBrand>
+                <NavbarBrand href="/"><span>Sail  </span></NavbarBrand>
                 <NavbarToggler aria-label="Toggle navigation" onClick={() => setNavOpen(!navOpen)} ><i className="fa fa-bars" /></NavbarToggler>
                 <Collapse navbar isOpen={navOpen}>
                     <Nav navbar className="mr-auto">
