@@ -1,0 +1,83 @@
+{
+    "hero": {
+        "title": "Communication and Negotiation",
+        "subTitle": "We're Here to Help Build The Skills You Need",
+        "img": "img/photo/sailboat.png"
+    },
+
+    "discover": {
+        "title": "Discover the Great Resources Our Team Provides : ",
+        "subTitle": "We're Here to Make the Employment Process Easy",
+        "blocks": [
+            {
+                "title": "Skills That Help You Become A Great Communicator",
+                "content": "",
+                "icon": "user-1",
+                "color": "secondary"
+            },
+            {
+                "title": "The Importance of Being A Good Listener",
+                "content": "Absorbing and comprehending what is being said is an undervalued part of building communication skills. Being able to retain information allows you to better control the conversation and steer it in the proper direction. Becoming an active listener can help you engage with co-workers, clients, and those in your professional network on an emotional basis. Understanding ones emotions and tone can be helpful when communicating on a daily basis. Here are a few tips our team recommends to enhance your active listening skills:",
+                "icon": "ear-1",
+                "color": "primary"
+            },
+            {
+                "title": "Eye Contact and Hand Gestures",
+                "content": "Certain careers require specific certifications and trainings. Take a look at some of the resources we have provided to help you display your certifications on your resume.",
+                "icon": "identity-1",
+                "color": "primary"
+            },
+            {
+                "title": "Things to Avoid On Your Resume",
+                "content": "We have compiled a list of specific items and words we recommend you avoid when drafting a resume. To get more information on what words you should avoid on your resume click the icon above.",
+                "icon": "reading-1",
+                "color": "secondary"
+            },
+            {
+                "title": "Areas to Highlight Within a Resume",
+                "content": "Get Knowledge on what ares we recommend to highlight on your resume.",
+                "icon": "read-email-1",
+                "color": "primary"
+            },
+            {
+                "title": "Key Sections to Include In A Resume",
+                "content": "We recommend that every resume should have these sections.",
+                "icon": "pay-1",
+                "color": "primary"
+            },
+            {
+                "title": "Best Skills to Display On Your Resume",
+                "content": "What skills should you display on your Resume?",
+                "icon": "pay-1",
+                "color": "primary"
+            },
+            {
+                "title": "How To Make Your Resume Stand Out",
+                "content": "There are a ton of ways to help you stand out to recruiters and hiring managers. Take a look at some of the tips we recommend to make your resume stand out.",
+                "icon": "pay-1",
+                "color": "primary"
+            },
+            {
+                "title": "What To Include On A Resume",
+                "content": "Take a look at the sections we recommend to include on your resume. These five sections are the most common resume sections in today's job industries.",
+                "icon": "pay-1",
+                "color": "primary"
+            }
+
+        ]
+    },
+    "popular": {
+        "title": "Resume Templates",
+        "subTitle": "Choose A Template That Makes You Stand Out",
+        "button": "Search Resume Templates",
+        "buttonLink": "/category-2"
+    },
+    "bottomBlock": {
+        "title": "Start Using Sail Today",
+        "subTitle": "Apply One Swipe At A Time",
+        "content": "Sail is the convenient way to find & apply for job opportunities around the world.",
+        "button": "Create Your Account",
+        "buttonLink": "#",
+        "small": "It's free!"
+    }
+}

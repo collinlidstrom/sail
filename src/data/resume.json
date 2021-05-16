@@ -1,0 +1,132 @@
+{
+    "hero": {
+        "title": "Prepare Yourself For The Next Step",
+        "subTitle": "Get the Confidence and Practice You Need.",
+        "img": "img/photo/pier-498523_1280.jpg"
+    },
+    "searchOptions": [
+        {
+            "value": "small",
+            "label": "Restaurants"
+        },
+        {
+            "value": "medium",
+            "label": "Hotels"
+        },
+        {
+            "value": "large",
+            "label": "Cafes"
+        },
+        {
+            "value": "x-large",
+            "label": "Garages"
+        }
+    ],
+
+
+    "discover": {
+        "title": "Discover the Great Resources Our Team Provides : ",
+        "subTitle": "We're Here to Make the Employment Process Easy",
+        "blocks": [
+            {
+                "title": "Practice Mock Interviewing",
+                "content": "The Sail platform provides users the opportunity to practice interviewing with our mock interview service. For more information about the interviewing resources and services we provide click the icon above.",
+                "icon": "user-1",
+                "button": "Practice Mock Interviewing",
+                "buttonLink": "/resumeresources",
+                "color": "secondary"
+            },
+            {
+                "title": "Resume Resources and Templates",
+                "content": "Need to touch up your Resume? Take a look at the resources our team can provide by clicking the icon above.",
+                "icon": "identity-1",
+                "color": "primary"
+            },
+            {
+                "title": "Cover Letter Resources and Templates",
+                "content": "To view the resources and cover letter templates our team has click the icon above.",
+                "icon": "reading-1",
+                "color": "secondary"
+            },
+            {
+                "title": "Email Resources and Templates",
+                "content": "To view the resources and email templates our team has click the icon above.",
+                "icon": "read-email-1",
+                "color": "primary"
+            },
+            {
+                "title": "Communication and Negotiating",
+                "content": "Communicating professionally is a skill that lasts a lifetime. To get more knowledge on the communication skills and resources we provide click the icon above.",
+                "icon": "pay-1",
+                "color": "primary"
+            }
+        ]
+    },
+    "popular": {
+        "title": "Popular Skills Within Your Profession",
+        "subTitle": "Develop New Skills to Set Yourself Apart",
+        "button": "See All Skills",
+        "buttonLink": "/category-2"
+    },
+    "travel": {
+        "title": "Need Additional Help?",
+        "subtitle": "Get In Contact With Our Team",
+        "content": "We Understand that these resources might not be the answer everyone is looking for. Reach out to our team for additional help and we will be happy to help you locate the resources you need to grow.",
+        "button": "Contact Us",
+        "buttonLink": "/contact",
+        "img": "new-york.jpg"
+    },
+    "brands": {
+        "title": "Additional Resources",
+        "brands": [
+            {
+                "title": "Unemployment",
+                "img": "img/brand/brand-1.svg"
+            },
+            {
+                "title": "Volunteer Opportunities",
+                "img": "img/brand/brand-2.svg"
+            },
+            {
+                "title": "Brand 3",
+                "img": "img/brand/brand-3.svg"
+            },
+            {
+                "title": "Brand 4",
+                "img": "img/brand/brand-4.svg"
+            },
+            {
+                "title": "Brand 5",
+                "img": "img/brand/brand-5.svg"
+            },
+            {
+                "title": "Brand 6",
+                "img": "img/brand/brand-6.svg"
+            },
+            {
+                "title": "Brand 1",
+                "img": "img/brand/brand-1.svg"
+            },
+            {
+                "title": "Brand 2",
+                "img": "img/brand/brand-2.svg"
+            },
+            {
+                "title": "Brand 3",
+                "img": "img/brand/brand-3.svg"
+            },
+            {
+                "title": "Brand 4",
+                "img": "img/brand/brand-4.svg"
+            }
+        ]
+    },
+    "bottomBlock": {
+        "title": "Start Using Sail Today",
+        "subTitle": "Apply One Swipe At A Time",
+        "content": "Sail is the convenient way to find & apply for job opportunities around the world.",
+        "button": "Create Your Account",
+        "buttonLink": "#",
+        "small": "It's free!"
+    }
+}

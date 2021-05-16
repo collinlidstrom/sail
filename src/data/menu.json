@@ -93,23 +93,23 @@
                 "links": [
                     {
                         "title": "Upload Resume",
-                        "link": "/docs/docs-introduction"
+                        "link": "/upload"
                     },
                     {
                         "title": "Upload Cover Letter",
-                        "link": "/docs/docs-directory-structure"
+                        "link": "/upload"
                     },
                     {
                         "title": "Upload References",
-                        "link": "/docs/docs-next"
+                        "link": "/upload"
                     },
                     {
                         "title": "Upload CV",
-                        "link": "/docs/docs-customizing-css"
+                        "link": "/upload"
                     },
                     {
                         "title": "Upload Additional Documents and Publications",
-                        "link": "/docs/docs-credits"
+                        "link": "/upload"
                     }
                 ]
             },
