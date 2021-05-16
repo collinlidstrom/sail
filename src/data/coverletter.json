@@ -1,0 +1,58 @@
+{
+    "hero": {
+        "title": "Cover Letter Resources And Templates",
+        "subTitle": "We Know That Writing Cover Letters Can Be A Tedious Task. We Are Here To Help Make It Easy!",
+        "img": "img/photo/sailboat.png"
+    },
+    "searchOptions": [
+        {
+            "value": "small",
+            "label": "Restaurants"
+        },
+        {
+            "value": "medium",
+            "label": "Hotels"
+        },
+        {
+            "value": "large",
+            "label": "Cafes"
+        },
+        {
+            "value": "x-large",
+            "label": "Garages"
+        }
+    ],
+
+
+    "discover": {
+        "title": "Explore the Cover Letter Resources Our Team Provides: ",
+        "subTitle": "Know What To Say and How To Explain It",
+        "blocks": [
+            {
+                "title": "Common Cover Letter Formats",
+                "content": "Explore some of the most common cover letter formats.",
+                "icon": "user-1",
+                "color": "secondary"
+            },
+            {
+                "title": "What To Include In A Cover Letter",
+                "content": "It is important to present yourself in a professional manner when drafting a cover letter. Our team has put together a detailed explanation showing you what to include in your cover letter.",
+            }
+
+        ]
+    },
+    "popular": {
+        "title": "Cover Letter Generator",
+        "subTitle": "Build Your Cover Letter Today!",
+        "button": "Get Started",
+        "buttonLink": "/category-2"
+    },
+    "bottomBlock": {
+        "title": "Start Using Sail Today",
+        "subTitle": "Apply One Swipe At A Time",
+        "content": "Sail is the convenient way to find & apply for job opportunities around the world.",
+        "button": "Create Your Account",
+        "buttonLink": "#",
+        "small": "It's free!"
+    }
+}

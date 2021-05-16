@@ -1,0 +1,54 @@
+{
+    "hero": {
+        "title": "Email Resources And Templates",
+        "subTitle": "View Some Of The Email Resources Our Team Has Compiled To Assist You Build Your Career Development Skills.",
+        "img": "img/photo/sailboat.png"
+    },
+    "searchOptions": [
+        {
+            "value": "small",
+            "label": "Restaurants"
+        },
+        {
+            "value": "medium",
+            "label": "Hotels"
+        },
+        {
+            "value": "large",
+            "label": "Cafes"
+        },
+        {
+            "value": "x-large",
+            "label": "Garages"
+        }
+    ],
+
+
+    "discover": {
+        "title": "Explore the Email Resources Our Team Provides: ",
+        "subTitle": "Professional Communication Is Key To Building Career Growth",
+        "blocks": [
+            {
+                "title": "Thank You Email Formats",
+                "content": "It is important to display your manners and thank the individual that you interviewed with. Writing a thank you email allows you to stand out and increases your chances of getting hired. It is important that within your thank you email you emphasize your strengths once again. This is a chance for you to address why it is that you should be chosen to fill the open position. Don't be afraid to address some of the key skills you offer that would add value to their team. It is important to remember that you are only one individual who was interviewed, so sending a thank you email will boost your chances of employment and truly show how much you want then position. We recommend that interviewers send a thank you letter within 24 hours of interviewing. ",
+                "icon": "user-1",
+                "color": "secondary"
+            },
+            {
+                "title": "Common Email Signature Formats",
+                "content": "It is important to present yourself in a professional manner, take a look at some of the helpful resources we recommend.",
+                "icon": "pay-1",
+                "color": "primary"
+            }
+
+        ]
+    },
+    "bottomBlock": {
+        "title": "Start Using Sail Today",
+        "subTitle": "Apply One Swipe At A Time",
+        "content": "Sail is the convenient way to find & apply for job opportunities around the world.",
+        "button": "Create Your Account",
+        "buttonLink": "#",
+        "small": "It's free!"
+    }
+}

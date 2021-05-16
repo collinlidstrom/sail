@@ -1,0 +1,102 @@
+{
+    "hero": {
+        "title": "Resume Resources and Templates",
+        "subTitle": "We're Here to Make Sure Your Resume Stands Out",
+        "img": "img/photo/sailboat.png"
+    },
+    "searchOptions": [
+        {
+            "value": "small",
+            "label": "Restaurants"
+        },
+        {
+            "value": "medium",
+            "label": "Hotels"
+        },
+        {
+            "value": "large",
+            "label": "Cafes"
+        },
+        {
+            "value": "x-large",
+            "label": "Garages"
+        }
+    ],
+
+
+    "discover": {
+        "title": "Discover the Great Resources Our Team Provides : ",
+        "subTitle": "We're Here to Make the Employment Process Easy",
+        "blocks": [
+            {
+                "title": "Common Resume Search Words",
+                "content": "Some words are more important than others to include on your resume. Our team has compiled a list of commonly searched resume key words to include on your resume.",
+                "icon": "user-1",
+                "color": "secondary"
+            },
+            {
+                "title": "Updating Your Resume",
+                "content": "Getting a hiring managers attention is important. Our Team has compiled several great options for resume templates that help you present a professional document.",
+                "icon": "pay-1",
+                "color": "primary"
+            },
+            {
+                "title": "Certifications and Trainings",
+                "content": "Certain careers require specific certifications and trainings. Take a look at some of the resources we have provided to help you display your certifications on your resume.",
+                "icon": "identity-1",
+                "color": "primary"
+            },
+            {
+                "title": "Things to Avoid On Your Resume",
+                "content": "We have compiled a list of specific items and words we recommend you avoid when drafting a resume. To get more information on what words you should avoid on your resume click the icon above.",
+                "icon": "reading-1",
+                "color": "secondary"
+            },
+            {
+                "title": "Areas to Highlight Within a Resume",
+                "content": "Get Knowledge on what ares we recommend to highlight on your resume.",
+                "icon": "read-email-1",
+                "color": "primary"
+            },
+            {
+                "title": "Key Sections to Include In A Resume",
+                "content": "We recommend that every resume should have these sections.",
+                "icon": "pay-1",
+                "color": "primary"
+            },
+            {
+                "title": "Best Skills to Display On Your Resume",
+                "content": "What skills should you display on your Resume?",
+                "icon": "pay-1",
+                "color": "primary"
+            },
+            {
+                "title": "How To Make Your Resume Stand Out",
+                "content": "There are a ton of ways to help you stand out to recruiters and hiring managers. Take a look at some of the tips we recommend to make your resume stand out.",
+                "icon": "pay-1",
+                "color": "primary"
+            },
+            {
+                "title": "What To Include On A Resume",
+                "content": "Take a look at the sections we recommend to include on your resume. These five sections are the most common resume sections in today's job industries.",
+                "icon": "pay-1",
+                "color": "primary"
+            }
+
+        ]
+    },
+    "popular": {
+        "title": "Resume Templates",
+        "subTitle": "Choose A Template That Makes You Stand Out",
+        "button": "Search Resume Templates",
+        "buttonLink": "/category-2"
+    },
+    "bottomBlock": {
+        "title": "Start Using Sail Today",
+        "subTitle": "Apply One Swipe At A Time",
+        "content": "Sail is the convenient way to find & apply for job opportunities around the world.",
+        "button": "Create Your Account",
+        "buttonLink": "#",
+        "small": "It's free!"
+    }
+}

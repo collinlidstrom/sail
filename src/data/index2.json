@@ -30,31 +30,33 @@
         "blocks": [
             {
                 "title": "Practice Mock Interviewing",
-                "content": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed in",
+                "content": "The Sail platform provides users the opportunity to practice interviewing with our mock interview service. For more information about the interviewing resources and services we provide click the icon above.",
                 "icon": "user-1",
+                "button": "Practice Mock Interviewing",
+                "buttonLink": "/resumeresources",
                 "color": "secondary"
             },
             {
                 "title": "Resume Resources and Templates",
-                "content": "The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pit",
+                "content": "Need to touch up your Resume? Take a look at the resources our team can provide by clicking the icon above.",
                 "icon": "identity-1",
                 "color": "primary"
             },
             {
                 "title": "Cover Letter Resources and Templates",
-                "content": "His room, a proper human room although a little too small, lay peacefully between its four familiar",
+                "content": "To view the resources and cover letter templates our team has click the icon above.",
                 "icon": "reading-1",
                 "color": "secondary"
             },
             {
-                "title": "Email Templates",
-                "content": "Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of",
+                "title": "Email Resources and Templates",
+                "content": "To view the resources and email templates our team has click the icon above.",
                 "icon": "read-email-1",
                 "color": "primary"
             },
             {
                 "title": "Communication and Negotiating",
-                "content": "Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of",
+                "content": "Communicating professionally is a skill that lasts a lifetime. To get more knowledge on the communication skills and resources we provide click the icon above.",
                 "icon": "pay-1",
                 "color": "primary"
             }

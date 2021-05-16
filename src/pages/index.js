@@ -150,32 +150,6 @@ const Index = () => {
                 </p>
                 <h2>{data.blogPosts.title}</h2>
               </Col>
-              <Col
-                md="4"
-                className="d-md-flex align-items-center justify-content-end"
-              >
-                <Link href={data.blogPosts.buttonLink}>
-                  <a className="text-muted text-sm">
-                    {data.blogPosts.button}
-                    <i className="fas fa-angle-double-right ml-2" />
-                  </a>
-                </Link>
-              </Col>
-            </Row>
-            <Row>
-              {blog.posts.map((post, index) => {
-                if (index <= 2)
-                  return (
-                    <Col
-                      key={post.title}
-                      lg="4"
-                      sm="6"
-                      className="mb-4 hover-animate"
-                    >
-                      <CardPost data={post} />
-                    </Col>
-                  )
-              })}
             </Row>
           </Container>
         </section>

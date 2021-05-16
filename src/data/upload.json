@@ -1,0 +1,42 @@
+{
+    "title": "Upload Your Documents Here",
+    "subtitle": "Make The Process Easy and Upload Your Documents Once.",
+    "cards": [
+        {
+            "title": "Upload Resume",
+            "link": "/user-personal",
+            "icon": "identity-1",
+            "content": "Provide Your Resume So We Have It On File."
+        },
+        {
+            "title": "Upload Cover Letter",
+            "link": "/user-security",
+            "icon": "reading-1",
+            "content": "Provide Your Cover Letter So We Have It On File."
+        },
+        {
+            "title": "Upload References",
+            "link": "#",
+            "icon": "user-1",
+            "content": "Provide Your References So We Have It On File."
+        },
+        {
+            "title": "Upload CV",
+            "link": "#",
+            "icon": "identity-1",
+            "content": "Provide Your CV So We Have It On File."
+        },
+        {
+            "title": "Upload Additional Documents",
+            "link": "#",
+            "icon": "diary-1",
+            "content": "Provide Your Documents So We Have It On File."
+        },
+        {
+            "title": "Templates for Documents",
+            "link": "/index-2",
+            "icon": "reading-1",
+            "content": "Need Help Editing Your Documents? Take A Look At The Templates In Our Database."
+        }
+    ]
+}

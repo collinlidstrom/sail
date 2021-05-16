@@ -1,0 +1,69 @@
+{
+    "hero": {
+        "title": "Resume Search Words",
+        "subTitle": "We're Here to Make Sure Your Resume Stands Out",
+        "img": "img/photo/sailboat.png"
+    },
+
+    "discover": {
+        "title": "Discover The Key Resume Search Words : ",
+        "subTitle": "These Are Some Of The Most Commonly Searched Words For Each Industry: ",
+        "blocks": [
+            {
+                "title": "Financial Careers: ",
+                "content": "Gain, Yield, Value, Allocate, Develop, Diversify, Capital, Assets, Portfolio, Balance, Income, Budgeting, Modeling, NPV, IRR, Return, Acquisition, Cash Flow, DCF, Equity"
+
+            },
+            {
+                "title": "Start Ups",
+                "content": "Innovation, Disrupt, Seed, Series, Growth, Creative, Develop, Improvement, Forecast, Deploy, Project Manaqement, Fundraising, Investor"
+            },
+            {
+                "title": "Business and Administrative Careers: ",
+                "content": "Branding, Proposal, Spreadsheets, Marketing, Process, Service, Quality Assurance, Excel, E-commerce, Strategy, Client, Cost, Audit, Innovation, Disrupt, Growth, Develop, Improvement, Forecast, Budgeting, Project Manaqement, Market Research, Accounts Receivable, Accounts Payable, Purchase, Demand, Supply, Operations"
+            },
+            {
+                "title": "Sales and Account Management Careers:",
+                "content": "Quota, Service, Growth, Revenue, Relations, Retention, Customer, CRM, SAP, Expense, Business Development, Negotiation, Supply Chain, Forecasting, Purchasing, Performance, Goals, Market Research, Ordering"
+            },
+            {
+                "title": "Educational Careers: ",
+                "content": "Mentor, Guidance, Train, Communication, Present, Help, Class, Grade, Lecture, Display"
+            },
+            {
+                "title": "Health Care Careers: ",
+                "content": "Patient , Understanding, Diligent, Communication, Present, Help, Nursing, Patient Interaction"
+            },
+            {
+                "title": "IT and Software Careers: ",
+                "content": "Algorithm, Coding , Develop, Process, System, Platform, Java, Programming, MS Office, HTML, Support, Technical, Process, Information, Framework, Javascript, Linux, Front-End, Back-End, Adobe, API, Oracle, CSS, SaaS, C#, Data"
+            },
+            {
+                "title": "Construction and Engineering Careers: ",
+                "content": "Develop , Build, Layout, Plan, Permit, Manage, MATLAB, AutoCAD, Engineer, Equipment"
+            },
+            {
+                "title": "Creative Arts Careers: ",
+                "content": "Design , Created, Layout, Illustrated"
+            },
+            {
+                "title": "Analyst Careers: ",
+                "content": "Data, Risk, Produced, Analyzed, Ratio, Compared, Efficiency, Excel, Python, Algorithms, Report, Financial Statement"
+            }
+        ]
+    },
+    "popular": {
+        "title": "Update Your Resume Now With Common Search Words",
+        "subTitle": "Let Us Help You Make Some Changes",
+        "button": "Upload Resume Now",
+        "buttonLink": "/category-2"
+    },
+    "bottomBlock": {
+        "title": "Start Using Sail Today",
+        "subTitle": "Apply One Swipe At A Time",
+        "content": "Sail is the convenient way to find & apply for job opportunities around the world.",
+        "button": "Create Your Account",
+        "buttonLink": "#",
+        "small": "It's free!"
+    }
+}
