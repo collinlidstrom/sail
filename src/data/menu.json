@@ -11,7 +11,7 @@
                 "link": "/index-2"
             },
             {
-                "title": "Meet the Team",
+                "title": "Contact Us",
                 "link": "/team"
             },
             {
@@ -79,9 +79,8 @@
             }
         ]
     },
-
     {
-        "title": "Contact Us",
+        "title": "For Students",
         "link": "/contact"
     },
     {
