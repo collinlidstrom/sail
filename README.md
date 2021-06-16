@@ -7,11 +7,7 @@ This theme is a [Next.js](https://nextjs.org/) project bootstrapped with [`creat
 Next.js is a framework based on React, Webpack and Babel. It allows you to make blazing fast web applications with possibility of server side rendering.
 
 ---
-
-Nick - How to push code updates to GitHub
-
-###  GIT CHEAT SHEETSTAGE & SNAPSHOT
-Working with snapshots and the Git staging area
+###  How to Commit and Push code to GitHub from IntelliJ
 
 ```xml
 <!--Check coding changes on local machine-->
