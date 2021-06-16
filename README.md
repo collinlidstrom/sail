@@ -1,3 +1,7 @@
+# S A I L
+
+###### Demo Application and PoC
+
 This theme is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 Next.js is a framework based on React, Webpack and Babel. It allows you to make blazing fast web applications with possibility of server side rendering.
